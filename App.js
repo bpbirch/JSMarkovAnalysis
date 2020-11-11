@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 
-
 function App() {
   const [fullText, setFulltext] = React.useState('');
   const [sentence, setSentence] = React.useState('');
